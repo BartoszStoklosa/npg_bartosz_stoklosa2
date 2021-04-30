@@ -1,2 +1,7 @@
-**/Plik.txt
+Plik.txt
+**/log
+**/build
+*.pdf
+*.tmp
+*.log
 
